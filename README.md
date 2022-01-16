@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ferdianqbl/ferdianqbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img height="154" src="https://github-readme-stats.vercel.app/api?username=ferdianqbl&show_icons=true&theme=react&count_private=true&hide=contribs" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdianqbl&layout=compact&theme=react&hide=php&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferdianqbl&layout=compact&theme=react&langs_count=6" />
+</div>
+
+## Hi, I'm Ferdi <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
+A Full Stack Web Developer offering 1 year of experience in the full software development lifecycle experienced in JavaScript, React, Node, PHP native, CSS/SCSS.
