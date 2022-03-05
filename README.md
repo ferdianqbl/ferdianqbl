@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <div>
   <img height="154" src="https://github-readme-stats.vercel.app/api?username=ferdianqbl&show_icons=true&theme=react&count_private=true&hide=contribs" />
   <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdianqbl&layout=compact&theme=react&hide=php&langs_count=6" />
-<!--   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferdianqbl&layout=compact&theme=react&langs_count=6" /> -->
-  <img height: "150" src="https://wakatime.com/badge/user/e064e36e-05b2-4e63-8f68-2db7a3ba8c83.svg" alt="Total time coded since Jan 4 2022" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ferdianqbl&layout=compact&theme=react&langs_count=6" />
 </div>
 
 ## Hi, I'm Ferdi <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
