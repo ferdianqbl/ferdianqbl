@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Ferdi <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
 A Full Stack Web Developer offering 1 year of experience in the full software development lifecycle experienced in Javascript, Typescript, React, Next, Node, Laravel, CSS/SCSS, Tailwind, Bootstrap.
+⚡ Click my Stars section and You'll know my personal projects or you can click my Repositories section too to know all of my projects ⚡
