@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Hi, I'm Ferdi <img src="https://user-images.githubusercontent.com/10743728/100195412-e2ca3780-2f29-11eb-98b0-26af8496f704.gif" width="36px" /> 
-A Full Stack Web Developer offering 1 year of experience in the full software development lifecycle experienced in Javascript, Typescript, React, Next, Node, Laravel, CSS/SCSS, Tailwind, Bootstrap.
+I am a passionate and dedicated Software Engineer with over 3 years of experience, specializing in Frontend development. I am highly proficient in working with the React ecosystem, Typescript, and Tailwind CSS, delivering seamless and responsive user interfaces.
+
+With a strong foundation in application development, I have developed a keen interest in Data Science and UI/UX Design, continuously seeking to improve both the functionality and usability of the products I build. I am always eager to learn new technologies and contribute to innovative solutions that solve real-world problems.
 ⚡ Click my Stars section and You'll know my personal projects or you can click my Repositories section too to know all of my projects ⚡
